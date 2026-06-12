@@ -1,0 +1,83 @@
+{
+  "personal": {
+    "name": "Bor Joyce Biswas",
+    "role": "CSE Student & Web Developer",
+    "subtitle": "Computer Science Student & Full-Stack Developer",
+    "location": "Kolkata, India",
+    "timezone": "Asia/Kolkata",
+    "status": "Coding right now",
+    "bio": "I am a passionate Computer Science and Engineering student and full-stack web developer. I specialize in building responsive, performant web applications using modern JavaScript frameworks. I focus on writing clean, scalable code and crafting intuitive user interfaces."
+  },
+  "socials": {
+    "github": "https://github.com",
+    "linkedin": "https://linkedin.com",
+    "twitter": "https://twitter.com",
+    "youtube": "https://youtube.com",
+    "whatsapp": "https://whatsapp.com",
+    "email": "joycebiswas97@gmail.com"
+  },
+  "hero": {
+    "mainSlogan": "I build modern web experiences",
+    "subSlogan": "through modern front-end architectures, clean database design, and intuitive user experiences .."
+  },
+  "techStack": [
+    { "name": "React", "category": "Frontend" },
+    { "name": "Tailwind CSS", "category": "Frontend" },
+    { "name": "Node.js", "category": "Backend" },
+    { "name": "Express", "category": "Backend" },
+    { "name": "MongoDB", "category": "Database" },
+    { "name": "PostgreSQL", "category": "Database" },
+    { "name": "Python", "category": "Languages" },
+    { "name": "Git", "category": "Tools" }
+  ],
+  "about": {
+    "education": [
+      {
+        "degree": "Diploma in Computer Science & Engineering",
+        "institution": "Brainware University",
+        "period": "2025 - Present",
+        "description": "Focusing on Software Engineering, Data Structures, Algorithms, and Database Management Systems."
+      }
+    ],
+    "experience": [
+      {
+        "role": "Frontend Developer Intern",
+        "company": "Digontom Pvt Ltd",
+        "period": "April 2026 - Present",
+        "description": "Building interactive dashboards using React.js and Tailwind CSS, optimizing components for maximum speed and responsiveness."
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Cleaning services website landing page",
+      "description": "Building interactive dashboards using React.js and Tailwind CSS, optimizing components for maximum speed and responsiveness.",
+      "tech": ["React", "Tailwind CSS", "JavaScript"],
+      "github": "https://github.com",
+      "live": "https://example.com"
+    },
+    {
+      "id": 2,
+      "title": "Kids Learning Platform landing page",
+      "description": "Building a playful, responsive landing page for kids' learning, incorporating colorful UI, interactive elements, and smooth animations using React and Tailwind CSS.",
+      "tech": ["React", "Tailwind CSS", "JavaScript"],
+      "github": "https://github.com",
+      "live": "https://example.com"
+    },
+    {
+      "id": 3,
+      "title": "Smart Task Manager",
+      "description": "Collaborative project management dashboard featuring Kanban boards, deadline tracking, and drag-and-drop mechanics.",
+      "tech": ["React", "Redux", "Node.js", "MongoDB", "Tailwind CSS"],
+      "github": "https://github.com",
+      "live": "https://example.com"
+    }
+  ],
+  "skills": {
+    "Frontend": ["React.js", "Next.js", "JavaScript (ES6+)", "Tailwind CSS", "HTML5/CSS3"],
+    "Backend & Database": ["Node.js", "Express.js", "MongoDB", "PostgreSQL", "Firebase"],
+    "Programming Languages": ["C/C++", "Java", "Python", "JavaScript"],
+    "Tools & Platforms": ["Git/GitHub", "Vite", "VS Code", "Postman", "Vercel"]
+  }
+}
