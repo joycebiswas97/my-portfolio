@@ -26,7 +26,7 @@
     { "name": "Node.js", "category": "Backend" },
     { "name": "Express", "category": "Backend" },
     { "name": "MongoDB", "category": "Database" },
-    { "name": "PostgreSQL", "category": "Database" },
+    { "name": "MySQL", "category": "Database" },
     { "name": "Python", "category": "Languages" },
     { "name": "Git", "category": "Tools" }
   ],
@@ -43,7 +43,7 @@
       {
         "role": "Frontend Developer Intern",
         "company": "Digontom Pvt Ltd",
-        "period": "April 2026 - Present",
+        "period": "April 2026 - June 2026",
         "description": "Building interactive dashboards using React.js and Tailwind CSS, optimizing components for maximum speed and responsiveness."
       }
     ]
@@ -54,29 +54,29 @@
       "title": "Cleaning services website landing page",
       "description": "Building interactive dashboards using React.js and Tailwind CSS, optimizing components for maximum speed and responsiveness.",
       "tech": ["React", "Tailwind CSS", "JavaScript"],
-      "github": "https://github.com",
-      "live": "https://example.com"
+      "github": "https://github.com/joycebiswas97/cleaning-service",
+      "live": "https://cleanlee.vercel.app/"
     },
     {
       "id": 2,
       "title": "Kids Learning Platform landing page",
       "description": "Building a playful, responsive landing page for kids' learning, incorporating colorful UI, interactive elements, and smooth animations using React and Tailwind CSS.",
       "tech": ["React", "Tailwind CSS", "JavaScript"],
-      "github": "https://github.com",
-      "live": "https://example.com"
+      "github": "https://github.com/joycebiswas97/digontom-future-kids",
+      "live": "https://digontom-future-kids.vercel.app/"
     },
     {
       "id": 3,
-      "title": "Smart Task Manager",
-      "description": "Collaborative project management dashboard featuring Kanban boards, deadline tracking, and drag-and-drop mechanics.",
-      "tech": ["React", "Redux", "Node.js", "MongoDB", "Tailwind CSS"],
-      "github": "https://github.com",
-      "live": "https://example.com"
+      "title": "Municipal Grievance Redressal System",
+      "description": "A MERN-stack web application designed to report maintenance issues in a locality to the higher authorities. It enables residents (citizens) to report local civic issues—such as water supply disruption, road damage, electricity failures, or sanitation concerns—directly to their local Government authorities.",
+      "tech": ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
+      "github": "https://github.com/joycebiswas97/fixora-issue-resolution-platform",
+      "live": "https://fixora-issue-resolution.vercel.app/"
     }
   ],
   "skills": {
     "Frontend": ["React.js", "Next.js", "JavaScript (ES6+)", "Tailwind CSS", "HTML5/CSS3"],
-    "Backend & Database": ["Node.js", "Express.js", "MongoDB", "PostgreSQL", "Firebase"],
+    "Backend & Database": ["Node.js", "Express.js", "MongoDB", "MySQL", "Firebase"],
     "Programming Languages": ["C/C++", "Java", "Python", "JavaScript"],
     "Tools & Platforms": ["Git/GitHub", "Vite", "VS Code", "Postman", "Vercel"]
   }
